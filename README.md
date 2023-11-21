@@ -1,6 +1,6 @@
-# Zomato Clone App
+# Food web App
 
-This is a Zomato clone application built with React and Redux. It allows users to browse favourite food, view their menus, and place orders. This project aims to replicate some of the key features of the Zomato platform.
+This is a Food Delivery application built with React and Redux. It allows users to browse favourite food, view their menus, and place orders. This project aims to replicate some of the key features of the Zomato platform.
 
 ## Features
 
@@ -10,9 +10,6 @@ This is a Zomato clone application built with React and Redux. It allows users t
 - Searching Food by their name
 - Authentication through Third party app by Auth0
   
-## Demo
-
-Link:- https://zomato-food-app.netlify.app/
 
 ## Installation
 
